@@ -1,0 +1,93 @@
+/* rule-set #1: Everything within the body tag will have a red background. */
+body {background-color: red;}
+
+/* rule-set #2: Everything within a css-classes class will have a greenyellow background. */
+.css-classes {background-color: greenyellow;}
+
+/* rule-set #2a: Everything within a css-classes class will have a greenyellow background. */
+/*.css-classes {background-color: rgb(255, 47, 161);}
+
+/*rule-set #3: All h1 tags within the css-classes class will have a font-size of 34 pixels.*/
+/*.css-classes h1{font-size: 34px;}*/
+
+/* rule-set #4: All of the p tags within a css-classes class will have green font 24 pixels high. */
+/*.css-class p{font-size: 30px; color: green;}*/
+
+/* rule-set #5: All the li items within the css-classes class will have a blue font. */
+/*.css-classes li {color: navy;}*/
+
+/* rule-set #1 */
+/*#number-one{color: red;}
+
+/* For Testing */
+/* body {Background-color: blue;}*/
+
+/* rule-set #1 */
+#number-one{color: red;}
+
+/*rule-set #2 */
+#number-two{font-size: 36px;}
+
+/*rule-set #3 */
+.first-class{color: rgb(13, 0, 128);}
+
+/*rule-set #4 */
+.second-class{font-size: 24px;}
+
+/* 1 */
+H1{text-align: center;}
+
+/* 4 */
+.margins-padding
+{border:2x solid blue;
+    margin-top: 50px;
+    margin-right: 250px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+padding: 20px 20px 20px 40px;}
+
+#margin-demo {width: 400px;}
+
+#margin-experiment1
+    {height: 40px;
+    background: blue;
+        border: 5px solid pink;
+        margin: 0px 0px 0px 0px;}
+
+#margin-experiment2
+    {height: 40px;
+    background: blue;
+        border: 5px solid pink;
+        margin: 0px 0px 0px 0px;}     
+        
+/* 6 */
+#margin-experiment3
+    {height: 40px;
+    background: blue;
+        border: 5px solid pink;
+        margin: 10px 10px 10px 10px;} 
+
+#margin-experiment4
+    {height: 40px;
+    background: blue;
+        border: 5px solid pink;
+        margin: 10px 10px 10px 10px;}      
+
+/* 8 */
+.padding-class{
+    border: 2px solid yellow;
+        margin: 50px 50px 50px 50px;
+        padding: 20px 20px 20px 40px;}
+
+#padding-experiment
+{border: 2px solid yellow;
+margin: 50px 50px 50px 50px;
+/*
+    padding-top: 20px
+    padding-right: 20px
+    padding-bottom: 20px
+    padding-left: 20px
+*/
+padding: 20px 20px 20px 20px;
+
+}  
